@@ -34,12 +34,12 @@ fractal.components.set('layout', path.join(__dirname, 'layout/layout.html'));
  */
 fractal.docs.set('path', path.join(__dirname, 'docs'));
 
-const umbyTheme = mandelbrot({
+const yellowJSON = mandelbrot({
     skin: 'yellow',
     format: 'json'
 });
 
-fractal.web.theme(umbyTheme);
+fractal.web.theme(yellowJSON);
 
 /*
  * Tell the Fractal web preview plugin where to look for static assets.
