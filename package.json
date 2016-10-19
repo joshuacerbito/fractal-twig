@@ -1,5 +1,5 @@
 {
-  "name": "Fractal + Twig",
+  "name": "FractalTwig",
   "version": "0.1.0",
   "description": "'Fractal + Twig' is a collection of examples and configurations for bootstrapping a Fractal-generated Style Guide using Twig as it's templating engine.",
   "dependencies": {
